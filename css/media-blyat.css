@@ -1,0 +1,60 @@
+@media (max-width: 1216px) {
+  .header-nav {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 1206px) {
+  .all__wathes-1 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 754px) {
+  .diadema-grand {
+    flex-direction: column;
+    width: 100%;
+  }
+}
+@media (max-width: 1300px) {
+  .advice-all {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 390px) {
+  .first-watc {
+    padding: 60px 110px 60px 64px;
+  }
+  .first-watc::before{
+    top: 5px;
+  }
+}
+@media (max-width: 914px) {
+  .header-nav-list {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width:834px) {
+  .footer-content{
+    flex-wrap: wrap;
+  }
+}
+@media (max-width:540px) {
+  .pierre_lainerr{
+    width: 100%;
+    flex-direction: column;
+    max-width: 400px;
+        right: -61px;
+}
+  .swiss-military{
+    width: 100%;
+    flex-direction: column;
+    max-width: 400px;
+        right: -61px;
+}
+
+  }
+
